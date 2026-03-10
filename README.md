@@ -151,18 +151,3 @@ https://www.linkedin.com/in/sumit-singh-chouhan
 # ⭐ If you like this project
 
 Give this repository a ⭐ on GitHub!
-What to do now
-
-Open README.md in your project
-
-Delete everything
-
-Paste this full content
-
-Save
-
-Push again
-
-git add README.md
-git commit -m "Updated README"
-git push
